@@ -709,7 +709,7 @@ body {
 
     .about{
         display: flex;
-        Sflex-direction: column-reverse;
+        flex-direction: column-reverse;
     }
     
     .about-detail h1 {
