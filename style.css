@@ -707,6 +707,11 @@ body {
         height: 180px;
     }
 
+    .about{
+        display: flex;
+        Sflex-direction: column-reverse;
+    }
+    
     .about-detail h1 {
         font-size: 28px;
     }
