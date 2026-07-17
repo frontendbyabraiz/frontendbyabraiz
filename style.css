@@ -706,11 +706,6 @@ body {
         width: 180px;
         height: 180px;
     }
-
-    .about{
-        display: flex;
-        flex-direction: column-reverse;
-    }
     
     .about-detail h1 {
         font-size: 28px;
